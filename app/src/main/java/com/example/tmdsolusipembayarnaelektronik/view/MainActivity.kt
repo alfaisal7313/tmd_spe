@@ -1,7 +1,8 @@
-package com.example.tmdsolusipembayarnaelektronik
+package com.example.tmdsolusipembayarnaelektronik.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.tmdsolusipembayarnaelektronik.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

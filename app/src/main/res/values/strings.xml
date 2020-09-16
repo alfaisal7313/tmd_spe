@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">TMD Solusi Pembayarna Elektronik</string>
+
+    <array name="name_merchant">
+        <item></item>
+    </array>
+
+    <array name="desc_merchant">
+        <item></item>
+    </array>
+
+    <array name="image_merchant">
+        <item></item>
+    </array>
 </resources>
